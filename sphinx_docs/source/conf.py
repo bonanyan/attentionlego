@@ -22,7 +22,6 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_permalinks_icon = '§'
-html_theme = 'insipid'
+html_theme = 'haiku'
 html_static_path = ['_static']
 
