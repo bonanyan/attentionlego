@@ -12,8 +12,8 @@ Welcome to **AttentionLego**'s documentation!
 Hop in and let's start the journey!
 
 - Github Repo: `https://github.com/bonanyan/attentionlego <https://github.com/bonanyan/attentionlego>`_
-- Tarball of Source Code: `link <https://github.com/bonanyan/attentionlego>`_
-- Detailed manual on arxiv: `link <https://github.com/bonanyan/attentionlego>`_
+- Tarball of Source Code: `link <https://github.com/bonanyan/attentionlego/raw/main/attentionlego.tar.gz>`_
+- Detailed manual on arxiv: `ArxivXXX <https://arxiv.XXXX>`_
 
 Contact: Bonan Yan (bonanyan *at* pku *dot* edu *dot* cn)
 
