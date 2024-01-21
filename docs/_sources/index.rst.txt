@@ -17,11 +17,12 @@ Hop in and let's start the journey!
    :maxdepth: 1
    :caption: Contents:
 
+
+
 Citation
 ==========
 
-
-@misc{embark_riscv,
+@misc{attentionlego_yan,
 author = {Embark RISC-V},
 }
 
