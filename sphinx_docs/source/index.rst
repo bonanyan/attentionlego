@@ -8,15 +8,18 @@
 Welcome to **AttentionLego**'s documentation!
 ==============================================
 
-*AttentionLego* is a open-source project to build a block of large language model customized accelerator with spatial scalability.
+*AttentionLego* is a open-source project to build a vanilla Verilog self-attention of large language model customized accelerator with spatial scalability.
 Hop in and let's start the journey!
 
-.. _a link: https://domain.invalid/
+- Github Repo: `https://github.com/bonanyan/attentionlego <https://github.com/bonanyan/attentionlego>`_
+- Tarball of Source Code: `link <https://github.com/bonanyan/attentionlego>`_
+- Detailed manual on arxiv: `link <https://github.com/bonanyan/attentionlego>`_
+
+Contact: Bonan Yan (bonanyan *at* pku *dot* edu *dot* cn)
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-
 
 
 Citation
