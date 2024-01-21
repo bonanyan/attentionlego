@@ -1,6 +1,6 @@
 .. Embark RISC-V documentation master file, created by
    sphinx-quickstart on Mon Jan  1 20:47:38 2024.
-|
+
 .. image:: _static/images/logo.webp
    :width: 350
    :align: center
