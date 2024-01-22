@@ -2,7 +2,7 @@
    sphinx-quickstart on Mon Jan  1 20:47:38 2024.
 
 .. image:: _static/images/logo.webp
-   :width: 350
+   :width: 500
    :align: center
 
 Welcome to **AttentionLego**'s documentation!
@@ -15,7 +15,7 @@ Hop in and let's start the journey!
 - Tarball of Source Code: `link <https://github.com/bonanyan/attentionlego/raw/main/attentionlego.tar.gz>`_
 - Detailed manual on arxiv: `ArxivXXX <https://arxiv.XXXX>`_
 
-Contact: Bonan Yan (bonanyan *at* pku *dot* edu *dot* cn)
+Contact: `Dr. Bonan Yan <https://bonany.cc>`_ (bonanyan *at* pku *dot* edu *dot* cn)
 
 .. toctree::
    :maxdepth: 1
